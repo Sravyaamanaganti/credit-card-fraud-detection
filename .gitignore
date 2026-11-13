@@ -1,0 +1,19 @@
+
+# Virtual environment
+.venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Secrets and passwords
+.env
+.env.*
+*.pem
+*.key
+
+# Editor settings
+.vscode/
+
+# Temporary files
+*.log
